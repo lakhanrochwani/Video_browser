@@ -1,25 +1,8 @@
-# ReduxSimpleStarter
+It is mock-up of YouTube .
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+It uses YouTube API to display the content on screen.
 
-### Getting Started
+Only used reactjs to achieve its functionalities.
 
-There are two methods for getting started with this repo.
+Four components like Search_bar,Video_list,Video_list_item And Video_detail are used to configure the whole application.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
